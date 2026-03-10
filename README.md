@@ -92,3 +92,7 @@ Insert new `<section>` blocks between existing ones following the same pattern.
 - 📱 WhatsApp: +63 950 326 9056
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jay-pahilanga-1a37453b0)
 - 🇵🇭 Philippines — Available for Remote Work
+
+---
+
+*Built with HTML, CSS, and vanilla JavaScript. No frameworks or build tools required.*
